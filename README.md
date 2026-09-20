@@ -1,1 +1,1 @@
-# rat-rig-3dprinter
+# Потрібні файли для RatRig в NU31
